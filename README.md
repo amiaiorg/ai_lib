@@ -1,5 +1,21 @@
+# Welcome to Ami AI Foundation!
 
-# AILibrary
+## Our Mission
+We are dedicated to providing access and opportunities for persons with disabilities in their work lives, fostering a sense of community and belonging.
+
+## Our Values
+- **Compassion**: We care deeply about the well-being of every individual.
+- **Strength**: Inspired by the resilience of our community.
+- **Nurturing**: Creating a supportive environment for growth and success.
+- **Exploration**: Encouraging innovation and new possibilities.
+
+## Get Involved
+Join us in making a difference! <http://www.amiai.org/> - currently under development
+
+## Follow Us
+Stay updated with our latest news and events. 
+
+## Project AI_Lib
 
 An accessible AI framework designed to assist people with disabilities and make AI technology more accessible to everyone.
 
@@ -33,7 +49,7 @@ sample_input = torch.randn(128)
 results = ai_lib.process_user_input(sample_input)
 ```
 
-## Installation
+### Installation
 
 ```bash
 pip install -r requirements.txt
