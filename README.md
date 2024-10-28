@@ -17,7 +17,7 @@ Stay updated with our latest news and events.
 
 ## Project AI_Lib
 
-An accessible AI framework designed to assist people with disabilities and make AI technology more accessible to everyone.
+Empowering inclusivity in the workplace with open-access AI-tools. Our library provides a comprehensive toolkit designed to help individuals with diverse abilities thrive in their professional environments. Join us in leveraging AI to create a more inclusive and supportive workplace for everyone.
 
 ## Table of Contents
 
@@ -72,8 +72,18 @@ print(results)
 
 ## Contributing
 
-We welcome contributions! Please see our contributing guidelines for more details.
+If you would like to contribute to this project, please fork the repository and sumbit a pull request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is Licensed under the MIT License
+
+### Summary
+
+- **Installation**: Instructions for installing dependencies.
+- **Usage**: Examples of how to use the `ai_lib`.
+- **Web Application**: Instructions for setting up and running the web application, including how to run tests via the web interface and where to view the results.
+- **Testing**: Instructions for running tests from the command line.
+- **Contributing**: Information on how to contribute to the project.
+- **License**: License information.
+
