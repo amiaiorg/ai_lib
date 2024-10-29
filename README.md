@@ -78,12 +78,4 @@ If you would like to contribute to this project, please fork the repository and 
 
 This project is Licensed under the MIT License
 
-### Summary
-
-- **Installation**: Instructions for installing dependencies.
-- **Usage**: Examples of how to use the `ai_lib`.
-- **Web Application**: Instructions for setting up and running the web application, including how to run tests via the web interface and where to view the results.
-- **Testing**: Instructions for running tests from the command line.
-- **Contributing**: Information on how to contribute to the project.
-- **License**: License information.
 
