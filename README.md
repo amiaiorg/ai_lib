@@ -1,4 +1,4 @@
-# Welcome to the Ami. Foundation
+# Welcome to the Ami.
 
 ## Our Mission
 We are dedicated to providing access and opportunities for persons with disabilities in their work lives, fostering a sense of community and belonging.
@@ -10,7 +10,7 @@ We are dedicated to providing access and opportunities for persons with disabili
 - **Exploration**: Encouraging innovation and new possibilities.
 
 ## Get Involved
-Join us in making a difference! <http://www.amiai.foundation>
+Join us in making a difference! - donate today, a new computer is in reach!
 
 ## Follow Us
 Stay updated with our latest news and events. 
